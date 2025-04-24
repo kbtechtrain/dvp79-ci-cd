@@ -5,13 +5,13 @@
     <hr>
      
     <label for="Name"><b>Enter your Full Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter Your Full Name" name="Name" id="Name" required>
     <br>
     <br>
     <br>
     
     <label for="mobile"><b>Enter your mobile number</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <input type="text" placeholder="Enter Your moible number" name="mobile" id="mobile" required>
     <br>
     <br>
     <br>
@@ -24,7 +24,7 @@
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
+    <label for="psw-repeat"><b>Repeat the Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
@@ -35,7 +35,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning with VedaIT with Atiq </h1>
+   <h1> Thankyou, Happy Learning with VedaIT with Janaki </h1>
 
   
 </form>
