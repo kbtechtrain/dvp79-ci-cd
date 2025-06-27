@@ -35,7 +35,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning with VedaIT with Janaki </h1>
+   <h1> Thankyou, Happy Learning with VedaIT with DVP130 </h1>
 
   
 </form>
